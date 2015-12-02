@@ -1,21 +1,11 @@
 <html>
 <head>
-<title>Vehicle Mgmt System</title>
+<title>Vehicle </title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="include/admin.css" rel="stylesheet" type="text/css">
 <link href="include/menu.css" rel="stylesheet" type="text/css">
 <link href="include/main.css" rel="stylesheet" type="text/css">
-<link rel="STYLESHEET" type="text/css" href="include/calendar.css">
-<script language="JavaScript" type="text/javascript" src="include/simplecalendar.js"></script>
-<style type="text/css">
-<!--
-html,body{
-    text-align: center;
-    background-image: url(images/pattern.gif);
-}
-.style1 {
-	font-size: 16px;
-	font-weight: bold;
+<link rel="STYLESHEET" type="text/css" href="include/calendar.css"	font-weight: bold;
 	color: #D22929;
 }
 .white{
